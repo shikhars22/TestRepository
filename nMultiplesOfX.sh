@@ -14,4 +14,5 @@ echo "---------------------------"
 for((i=1;i<=n;i++))
 do
 	echo "$x      X        $i        = $(( $i * x ))"
+	echo "Git Test"
 done
