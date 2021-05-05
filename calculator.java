@@ -5,6 +5,7 @@ import java.util.Scanner;
     public static void main(String args[])
      {
        float a, b, res;
+	   int aaaaaa;
        char choice, ch;
        Scanner scan = new Scanner(System.in);
 	      
